@@ -1,4 +1,4 @@
-##Hello!
+Hello!
 My name is Aidan Brennan, but online I usually go by the alias UnifiedKings.
 
 I am proficient in many programming languages, like Python, Java, and GDScipt; however, not all of these languages will be represented on Github.
